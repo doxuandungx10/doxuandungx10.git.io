@@ -22,6 +22,9 @@ else if ( answer === "cặc" ){
 else if ( answer === "đmm" ){
     confirm(" Đm cậu không nói tục :) ");
 }
+else if ( answer === "địt" ){
+    confirm(" Đm cậu không nói tục :) ");
+    }
 else {
     confirm("Cậu nói gì tớ không hiểu :) Human Language pleaseee :) ")
 }
